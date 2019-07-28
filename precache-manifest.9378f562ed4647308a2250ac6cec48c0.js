@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "583a3f0a0aa8ac4501437dbd52df9158",
+    "revision": "d701651b6882684a551ed41d50d596bf",
     "url": "/gobarber-gh-pages/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gobarber-gh-pages/static/js/2.a86a1386.chunk.js"
   },
   {
-    "revision": "32762cb0ec1371d0a2aa",
-    "url": "/gobarber-gh-pages/static/js/main.439cdc5b.chunk.js"
+    "revision": "2757741abea406a806b6",
+    "url": "/gobarber-gh-pages/static/js/main.94f74da1.chunk.js"
   },
   {
     "revision": "922e30d9952a5a6322c3",
