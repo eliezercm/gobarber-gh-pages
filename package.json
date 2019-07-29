@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "http://eliezercm.github.io/gobarber-gh-pages",
+  "homepage": "https://eliezercm.github.io/gobarber-gh-pages",
   "private": true,
   "dependencies": {
     "@rocketseat/unform": "^1.5.1",
